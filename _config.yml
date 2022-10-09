@@ -11,7 +11,7 @@ keywords: 菜鸟一个
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2022
 # 源码仓库，请替换成自己的
 repository: cantain/cantain.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -54,12 +54,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Cainiao
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: cantain
+location: Yulin, Guangxi, China
+email: cantain@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -136,26 +136,26 @@ disqus:
     username: http://disqus.com/by/disqus_SJLTFbDSco
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: cantain
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: cantain
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: cantain/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo: cantain/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
+    repo: cantain/blog-comments
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
